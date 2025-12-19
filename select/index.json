@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "上を向いて歩こう",
+  "base_artist": "坂本 九",
+  "createdAt": "2025-12-19T11:01:53.377680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "上を向いて歩こう - ウエスタン風:1973年09月11日 at 渋谷公会堂",
+      "artist": "Kyu Sakamoto",
+      "has_synced": false,
+      "path": "select/01_上を向いて歩こう_-_ウエスタン風_1973年09月11日_at_渋谷公会堂_Kyu_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sukiyaki (上を向いて歩こう?, \"I Look Up As I Walk\")",
+      "artist": "Kyu Sakamoto",
+      "has_synced": true,
+      "path": "select/02_Sukiyaki_(上を向いて歩こう_,__I_Look_Up_As_I_Walk_)_Kyu_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "上を向いて歩こう (Ue O Muite Arukou)",
+      "artist": "Kishi Bashi",
+      "has_synced": true,
+      "path": "select/03_上を向いて歩こう_(Ue_O_Muite_Arukou)_Kishi_Bashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "上を向いて歩こう (ウエスタン風：1973年09月11日 at 渋谷公会堂)",
+      "artist": "Kyu Sakamoto",
+      "has_synced": false,
+      "path": "select/04_上を向いて歩こう_(ウエスタン風_1973年09月11日_at_渋谷公会堂)_Kyu_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "上を向いて歩こう",
+      "artist": "Kyu Sakamoto",
+      "has_synced": true,
+      "path": "select/05_上を向いて歩こう_Kyu_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "上を向いて歩こう",
+      "artist": "Kyu Sakamoto",
+      "has_synced": true,
+      "path": "select/06_上を向いて歩こう_Kyu_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "上を向いて歩こう (カラオケ) - Sukiyaki (Karaoke)",
+      "artist": "Kyu Sakamoto",
+      "has_synced": false,
+      "path": "select/07_上を向いて歩こう_(カラオケ)_-_Sukiyaki_(Karaoke)_Kyu_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "上を向いて歩こう",
+      "artist": "坂本九",
+      "has_synced": true,
+      "path": "select/08_上を向いて歩こう_坂本九.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "上を向いて歩こう",
+      "artist": "玉置浩二",
+      "has_synced": true,
+      "path": "select/09_上を向いて歩こう_玉置浩二.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "坂本九 / 上を向いて歩こう",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/10_坂本九___上を向いて歩こう_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "上を向いて歩こう - Sukiyaki",
+      "artist": "Kyu Sakamoto",
+      "has_synced": true,
+      "path": "select/11_上を向いて歩こう_-_Sukiyaki_Kyu_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "上を向いて歩こう",
+      "artist": "RCサクセション",
+      "has_synced": false,
+      "path": "select/12_上を向いて歩こう_RCサクセション.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "上を向いて歩こう",
+      "artist": "kibigo!",
+      "has_synced": false,
+      "path": "select/13_上を向いて歩こう_kibigo!.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "上を向いて歩こう",
+      "artist": "岩崎宏美",
+      "has_synced": false,
+      "path": "select/14_上を向いて歩こう_岩崎宏美.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "上を向いて歩こう (Paused)",
+      "artist": "Kyu Sakamoto",
+      "has_synced": true,
+      "path": "select/15_上を向いて歩こう_(Paused)_Kyu_Sakamoto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "上を向いて歩こう",
+      "artist": "坂本 九",
+      "has_synced": false,
+      "path": "select/pl_01_上を向いて歩こう_坂本_九.txt"
+    }
+  ]
+}
